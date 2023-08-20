@@ -1,2 +1,20 @@
 # StudentFieldGuide
-A practical field guy to finding your first job in your industry.
+
+
+So here are some of my main learnings & tricks to finding a summer internship:
+1.    Network, network, network
+
+I am sure that this answer comes up a lot, but I do believe that students who make an effort to network while in school set themselves up for success. Networking is an opportunity to learn more about the industry, learn of new job opportunities (before they are posted) and get insights from employers on how to stand out as a candidate. It should be noted that networking needs to be authentic and should be long-term focused. You should be connecting with people in order to build genuine relationships based on shared professional interests & values rather than the sake of securing a summer job. Networking doesn’t always have to be a stuffy career fair. As an introvert, I much preferred coffee chats. Not sure where to find people to connect with? Check out: Ten Thousand Coffees.
+2.    Leverage your resources
+
+As someone that has both worked and volunteered in Career & Co-op Services, these departments have excellent resources, including, but not limited to: resumes, cover letters, interviewing, networking, updated Campus Event Calendars. Many places also provide one-on-one personalized feedback on your application documents as well as interview practice opportunities!!!! Job searching is a skill and with all skills, it needs to be honed through feedback and deliberate practice.
+3.    Showcase “you”
+For students wondering if they should include their volunteer or extra-curricular experiences on their resume, I strongly urge you do. Your experiences outside of your degree helps tell the story of you! It tells a recruiter where your passions lie and signals to recruiters the transferable skills you have developed that could apply to the role you are applying for. Many of the top skills that employers are looking for: problem-solving, team work, stakeholder management, communication skills and digital literacy can come from unrelated volunteer experiences!
+4.    Be a life-long learner
+With the growth of e-learning, education does not necessarily have to happen inside the four walls of a classroom. With the availability of e-learning tools such as Lynda.com (powered by LinkedIn), you are able to build your own personal curriculum made up of courses in Technology, Business & Creative Skills. Fun fact: Toronto Public Library provides a free subscription to Lynda.com. Many schools also offer subscriptions as well so definitely do your research! Each course is video based and allows learners to move at their own pace as well. As a student, you can really build up your technical skills to prepare you for future work terms & impress your employers! From my own experience, Excel & Outlook Fundamentals are a great start to your learning journey.
+5.    Interview the company
+I firmly believe the best candidate is the best person for the role and the best person for the company. The strongest candidate may not get the job if they have not taken the time to learn about the company including its values & products. For students interviewing for summer internships, I strongly suggest taking the time to research the company you are interviewing for. Some potential sources of information include: Glassdoor, LinkedIn, Facebook, Employees and Corporate Social Responsibility Reports. Using your own intuition and critical thinking, determine if the company meets your needs, whether it be culture, values, work-life balance or career opportunities.
+
+Be kind to yourself
+
+Last, but not least, be kind to yourself. The job search process is not easy and may be filled with rejections! I know that I received rejections well into the double digits while looking for internships & full-time work. Don’t take it personally and use your rejections as motivation to improve your applications and interviews! I hope this article helps you with your job search. For readers, feel free to share your experiences & advice to students below in the comments!
