@@ -1,4 +1,4 @@
-# StudentFieldGuide
+# Your Field Guide to Landing Your First Job!
 
 Finding your first co-op, internship or New Grad role is brutal in today's job market. There's no magic wand to fix this issue, but as a 2nd generation Canadian who managed to break into the corporate world, I wanted to create resources to help students navigate this really hard transition time.
 
