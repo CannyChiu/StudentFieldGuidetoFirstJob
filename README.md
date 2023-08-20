@@ -1,7 +1,12 @@
 # StudentFieldGuide
 
+Finding your first co-op, internship or New Grad role is brutal in today's job market. There's no magic wand to fix this issue, but as a 2nd generation Canadian who managed to break into the corporate world, I wanted to create resources to help students navigate this really hard transition time.
 
-So here are some of my main learnings & tricks to finding a summer internship:
+As a means to help students, I've started donating time each Sunday to provide free career coaching on [ADPList](https://adplist.org/mentors/canny-chiu). However, I realized that 1:1s is not the most sustainable so I wanted to dedicate time on building a self-serve, async resource hub for students to leverage.
+
+**All of the sections are Works In-Progress! Always welcome feedback or suggestions**
+**If you have any feedback or thoughts, you can connect with me [here](https://www.linkedin.com/in/cannychiu/)!**
+
 <h1>1.    Network, network, network</h1>
 
 I am sure that this answer comes up a lot, but I do believe that students who make an effort to network while in school set themselves up for success. Networking is an opportunity to learn more about the industry, learn of new job opportunities (before they are posted) and get insights from employers on how to stand out as a candidate. It should be noted that networking needs to be authentic and should be long-term focused. You should be connecting with people in order to build genuine relationships based on shared professional interests & values rather than the sake of securing a summer job. Networking doesn’t always have to be a stuffy career fair. As an introvert, I much preferred coffee chats. Not sure where to find people to connect with? Check out: Ten Thousand Coffees.
