@@ -18,7 +18,7 @@ I am sure that this answer comes up a lot, but I do believe that students who ma
 * Boolean strings targetting ATS systems
 * Talentegg.ca
 * Handshake
-<h1>3.[WIP[]    Showcasing “you” </h1>
+<h1>3.[WIP]    Showcasing “you” </h1>
 * Courses/Academic Background - show us what you're learning
 * Relevant Hobbies/Interests
 * Side projects on Github, Kaggle, Behance
@@ -33,6 +33,15 @@ Some potential sources of information include:
 * Employees and Corporate Social Responsibility Reports
 * The Recruiter
 * All of the Interviewers 
+
+<h1>6. [WIP]   How intership conversions normally work at companies </h1>
+
+<h1>7. [WIP]   Working with Recruiter Best Practices </h1>
+
+<h1>8. [WIP]   ChatGPT is your friend </h1>
+
+<h1>9. [WIP]   Other interesting resources </h1>
+
 
 Using your own intuition and critical thinking, determine if the company meets your needs, whether it be culture, values, work-life balance or career opportunities.
 
