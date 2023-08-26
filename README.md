@@ -9,7 +9,14 @@ As a means to help students, I've started donating time each Sunday to provide f
 
 <h1>[WIP]1. But what is networking really? </h1>
 
-I am sure that this answer comes up a lot, but I do believe that students who make an effort to network while in school set themselves up for success. Networking is an opportunity to learn more about the industry, learn of new job opportunities (before they are posted) and get insights from employers on how to stand out as a candidate. It should be noted that networking needs to be authentic and should be long-term focused. You should be connecting with people in order to build genuine relationships based on shared professional interests & values rather than the sake of securing a summer job. Networking doesn’t always have to be a stuffy career fair. As an introvert, I much preferred coffee chats. Not sure where to find people to connect with? Check out: Ten Thousand Coffees.
+I am sure that this answer comes up a lot, but I do believe that students who make an effort to network while in school set themselves up for success. Networking is an opportunity to learn more about the industry, learn of new job opportunities (before they are posted) and get insights from employers on how to stand out as a candidate. It should be noted that networking needs to be authentic and should be long-term focused. You should be connecting with people in order to build genuine relationships based on shared professional interests & values rather than the sake of securing a summer job. 
+
+I find that when I tell students to "network", they automatically assume it's going to a stuffy career fair with thousands of people. There's nothing wrong with this approach either, but as an introvert, I actually much prefer 1:1 conversations more than anything. If you're looking to find 1:1 coffee opportunities, some organizations to check out:
+* Your local university or college's alumni program.
+* Reaching out to speakers at your local community tech event or meet.up
+* Sites like Ten Thousand Coffees or ADPlist where you can get matched with professionals in the career path you're interested in
+  
+Networking doesn’t always have to be a stuffy career fair. As an introvert, I much preferred coffee chats. Not sure where to find people to connect with? Check out: Ten Thousand Coffees.
 <h1>2.[WIP] Discovering Jobs</h1>
 
 * Campus Career Centres
@@ -18,15 +25,22 @@ I am sure that this answer comes up a lot, but I do believe that students who ma
 * Boolean strings targetting ATS systems
 * Talentegg.ca
 * Handshake
+* Otta -> career suggestions
+* Indeed.com/Indeed.ca
+* LinkedIn Jobs
+
 <h1>3.[WIP]    Showcasing “you” </h1>
 * Courses/Academic Background - show us what you're learning
 * Relevant Hobbies/Interests
 * Side projects on Github, Kaggle, Behance
 * Campus extra-curriculars, specifically leadership roles
+
 <h1>4. [WIP]   Be a life-long learner</h1>
 With the growth of e-learning, education does not necessarily have to happen inside the four walls of a classroom. With the availability of e-learning tools such as Lynda.com (powered by LinkedIn), you are able to build your own personal curriculum made up of courses in Technology, Business & Creative Skills. Fun fact: Toronto Public Library provides a free subscription to Lynda.com. Many schools also offer subscriptions as well so definitely do your research! Each course is video based and allows learners to move at their own pace as well. As a student, you can really build up your technical skills to prepare you for future work terms & impress your employers! From my own experience, Excel & Outlook Fundamentals are a great start to your learning journey.
+
 <h1>5. [WIP]   Interview the company </h1>
 I firmly believe the best candidate is the best person for the role and the best person for the company. The strongest candidate may not get the job if they have not taken the time to learn about the company including its values & products. For students interviewing for summer internships, I strongly suggest taking the time to research the company you are interviewing for. 
+
 Some potential sources of information include: 
 * Glassdoor, 
 * LinkedIn, 
@@ -41,7 +55,6 @@ Some potential sources of information include:
 <h1>8. [WIP]   ChatGPT is your friend </h1>
 
 <h1>9. [WIP]   Other interesting resources </h1>
-
 
 Using your own intuition and critical thinking, determine if the company meets your needs, whether it be culture, values, work-life balance or career opportunities.
 
