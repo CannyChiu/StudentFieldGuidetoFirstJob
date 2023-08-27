@@ -1,28 +1,30 @@
 # Your Field Guide to Landing Your First Job!
 
-Finding your first co-op, internship or New Grad role is brutal in today's job market. There's no magic wand to fix this issue, but as a 2nd generation Canadian who managed to break into the corporate world, I wanted to create resources to help students navigate this really hard transition time.
+Finding your first co-op, internship or New Grad role is **brutal** in today's job market. There's no magic wand to fix this issue, but as a 2nd generation Canadian who managed to break into the corporate world through lots of failures & learning, I wanted to give back to students in my down time. 
 
-As a means to help students, I've started donating time each Sunday to provide free career coaching on [ADPList](https://adplist.org/mentors/canny-chiu). However, I realized that 1:1s is not the most sustainable so I wanted to dedicate time on building a self-serve, async resource hub for students to leverage.
+Finding a job is a skill in itself and many schools don't really teach this skill. I've started donating time each Sunday to provide free career coaching on [ADPList](https://adplist.org/mentors/canny-chiu). However, I realized that 1:1s is not the most sustainable so I wanted to dedicate time on building a self-serve, async resource hub for students to leverage. Investing time in this building this free resource in the hopes that it helps students that are struggling!
 
 **All of the sections are Works In-Progress! Always welcome feedback or suggestions**
 **If you have any feedback or thoughts, you can connect with me [here](https://www.linkedin.com/in/cannychiu/)!**
 
-<h1>[WIP]1. But what is networking really? </h1>
+<h1>1. But what is networking, really? </h1>
 
-I am sure that this answer comes up a lot, but I do believe that students who make an effort to network while in school set themselves up for success. Networking is an opportunity to learn more about the industry, learn of new job opportunities (before they are posted) and get insights from employers on how to stand out as a candidate. It should be noted that networking needs to be authentic and should be long-term focused. You should be connecting with people in order to build genuine relationships based on shared professional interests & values rather than the sake of securing a summer job. 
+I am sure that this answer comes up a lot, but I do believe that students who make an effort to network while in school set themselves up for success. Networking is an opportunity to learn more about the industry, learn of new job opportunities (before they are posted) and get insights from employers on how to stand out as a candidate. It should be noted that networking needs to be authentic and should be long-term focused. You should be connecting with people in order to build genuine relationships based on shared professional interests & values rather than the sake of securing a summer job.
 
-[Not sure if how Coffee Chats work?](https://joinhandshake.com/blog/students/networking-101-5-steps-to-build-your-career-connections/) 
+[Not sure of how Coffee Chats work?](https://joinhandshake.com/blog/students/networking-101-5-steps-to-build-your-career-connections/) 
+
+One important point in networking: not every single person will have the capacity to support you, and that's okay. The reality is that we're all working professionals with families, obligations and commitments that exist outside of the work place. Alot of the time, I get messages from students and unfortunately, I'm not able to respond, not because of lack of interest, but due to capacity challenges. Students, when networking, it's important to not take "no" personally. Many times, it's just the one "yes" or offer to help that opens a door for you.
 
 I find that when I tell students to "network", they automatically assume it's going to a stuffy career fair with thousands of people. There's nothing wrong with this approach either, but as an introvert, I actually much prefer 1:1 conversations more than anything. If you're looking to find 1:1 coffee opportunities, some organizations to check out:
 * Your local university or college's alumni program.
 * Reaching out to speakers at your local community tech event or [meetup.com](https://www.meetup.com/). If you're in Tech, I compiled a list of meet-ups [here](https://github.com/CannyChiu/TalentPartnerHub/wiki/Technology-Talent-Communities-(Job-Boards,-Slack-Channels,-Diversity-Organizations,-Meet-ups,-etc)) if you want to check it out! 
-* Sites like [Ten Thousand Coffees](https://www.tenthousandcoffees.com/) or [ADPlist](https://adplist.org/) where you can get matched with professionals in the career path you're interested in
+* Sites like [Ten Thousand Coffees](https://www.tenthousandcoffees.com/) or [ADPlist](https://adplist.org/) where you can get matched with professionals in the career path you're interested in. Alot of these professionals have intentionally volunteered their own time to meet students!
   
 <h1>2.[WIP] Discovering Jobs</h1>
 
 * Campus Career Centres
 * Getting involved with non-profit organizations that gear towards industries
-* Slack channels
+* Slack Communities
 * Boolean strings targetting ATS systems
 * Talentegg.ca
 * Handshake
@@ -31,11 +33,11 @@ I find that when I tell students to "network", they automatically assume it's go
 * LinkedIn Jobs
 
 <h1>3.[WIP]    Showcasing “you” </h1>
-As a recruiter, we see hundreds, if not thousands of resumes per day. The reality is that you need to differentiate yourself from your competition. Listing your tech stack is the bare minimum in my opinion. 
+As a recruiter, we see hundreds, if not thousands of resumes per day. The reality is that you need to differentiate yourself from your competition. Listing your tech stack is the bare minimum.
 We also understand that as students, you won't have 3-5 years of experience. When I've worked with Hiring Managers, a stand-out student has always been someone that has shown they are hungry to learn, have shown leadership in their life outsife of school and genuine passion for the company & the role. 
 
 **Things that have interested me about a person's profile:**
-* Courses/Academic Background - show us what you're learning. If it's unconventional and intentional - I love that, it shows me you have intellectual curiosity.
+* **Courses/Academic Background** - show us what you're learning. If it's unconventional and intentional - I love that, it shows me you have intellectual curiosity.
 * Hobbies/Interests - I've always found that if someone is able to channel their passion into continuous learning (even if it has NOTHING to do with their career), it's a huge signal of discipline and self-motivation. I see it as a sign of their growth potential in their career.
 * Side projects on Github, Kaggle, Behance - having random projects you work on shows me that you're interested in your field outside of the direct pay check. I'm not expecting someone to be commiting code every night on personal projects while raising a family! I think having side projects is a nice optional thing that can show recruiters that you enjoy the craft (career) you've chosen. I think it's also important to state that if you genuinely are fulfilled in your day-to-day responsbilities (don't get me wrong, being paid is super important to), you have a higher chance of sustaining yourself in the marathon known as a career.
 * Campus extra-curriculars, specifically leadership roles - Getting involved on campus is a huge plus for students, you get to: meet new friends, build new soft skills (project management, time management, public speaking, and more), networking, and much much more. Outside of the benefits to you as a student, as an employer, I love seeing what students are passionate about and it is a signal that you're the type to take initiative and fix those "broken windows". 
