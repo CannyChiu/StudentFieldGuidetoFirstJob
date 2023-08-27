@@ -15,7 +15,9 @@ I am sure that this answer comes up a lot, but I do believe that students who ma
 
 One important point in networking: not every single person will have the capacity to support you, and that's okay. The reality is that we're all working professionals with families, obligations and commitments that exist outside of the work place. Alot of the time, I get messages from students and unfortunately, I'm not able to respond, not because of lack of interest, but due to capacity challenges. Students, when networking, it's important to not take "no" personally. Many times, it's just the one "yes" or offer to help that opens a door for you.
 
-I find that when I tell students to "network", they automatically assume it's going to a stuffy career fair with thousands of people. There's nothing wrong with this approach either, but as an introvert, I actually much prefer 1:1 conversations more than anything. If you're looking to find 1:1 coffee opportunities, some organizations to check out:
+I find that when I tell students to "network", they automatically assume it's going to a stuffy career fair with thousands of people. There's nothing wrong with this approach either, but as an introvert, I actually much prefer 1:1 conversations more than anything. 
+
+**If you're looking to find 1:1 coffee opportunities, some organizations to check out:**
 * Your local university or college's alumni program.
 * Reaching out to speakers at your local community tech event or [meetup.com](https://www.meetup.com/). If you're in Tech, I compiled a list of meet-ups [here](https://github.com/CannyChiu/TalentPartnerHub/wiki/Technology-Talent-Communities-(Job-Boards,-Slack-Channels,-Diversity-Organizations,-Meet-ups,-etc)) if you want to check it out! 
 * Sites like [Ten Thousand Coffees](https://www.tenthousandcoffees.com/) or [ADPlist](https://adplist.org/) where you can get matched with professionals in the career path you're interested in. Alot of these professionals have intentionally volunteered their own time to meet students!
