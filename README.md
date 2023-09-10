@@ -36,7 +36,11 @@ If you're not able to tap into the hidden job market, you can still leverage pub
 * [Otta](https://otta.com/) -  I just recently discovered this website, but it's super cool! You can set the details of your ideal role (job title, level of experience, location, salary expectations) and this site will automatically recommend jobs for you. 
 * Indeed.com/Indeed.ca - Indeed is probably one of the most well-known platforms for public job postings. Worth mentioning!
 * LinkedIn - As a student, you should really have a LinkedIn profile. It's basically the calling card for modern day job search and serves as a marketing tool for you to stand out. One really interesting feature about LinkedIn is the ability to set auto alerts for jobs that match your interests. Check out this [article](https://www.linkedin.com/help/linkedin/answer/a511279) to enable the feature.
-*WIP - Using Booleans to target Job Boards
+
+**Learning to leverage Boolean Strings to source job postings**
+* As a corporate recruiter, my job is to headhunt. Sharing some tips and tracks for students to leverage boolean strings to find job opportunities.
+* [What is a Boolean String?](https://resources.workable.com/tutorial/source-google-boolean#:~:text=What%20is%20Boolean%20string%20search,and%20define%20the%20search%20results.)
+* Try putting this search string into Google's search bar: (site:linkedin.com) AND (“internship” OR "Co-op" OR "New Graduate") AND Toronto - VOILA, you'll get a list of jobs from LinkedIn that correspond to Internship/Co-op/NewGrad and Toronto
 
 <h1>3. Showcasing “you” </h1>
 As a recruiter, we see hundreds, if not thousands of resumes per day. The reality is that you need to differentiate yourself from your competition. Listing your tech stack is the bare minimum.
