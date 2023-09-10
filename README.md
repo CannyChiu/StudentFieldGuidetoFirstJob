@@ -22,19 +22,21 @@ I find that when I tell students to "network", they automatically assume it's go
 * Reaching out to speakers at your local community tech event or [meetup.com](https://www.meetup.com/). If you're in Tech, I compiled a list of meet-ups [here](https://github.com/CannyChiu/TalentPartnerHub/wiki/Technology-Talent-Communities-(Job-Boards,-Slack-Channels,-Diversity-Organizations,-Meet-ups,-etc)) if you want to check it out! 
 * Sites like [Ten Thousand Coffees](https://www.tenthousandcoffees.com/) or [ADPlist](https://adplist.org/) where you can get matched with professionals in the career path you're interested in. Alot of these professionals have intentionally volunteered their own time to meet students!
   
-<h1>2.[WIP] Discovering Jobs</h1>
+<h1>2. Discovering Jobs</h1>
+The best way to discover jobs is always through the [hidden job market](https://www.indeed.com/career-advice/finding-a-job/hidden-job-market). These are opportunities that are not posted, but come from informal conversations from friends, previous co-workers, referrals, networking and more. It's more work to tap into the hidden job market, but it's much more effective than applying through generic job boards. If curious, my last 3 jobs (including the one at Shopify) was actually from the hidden job market.
 
-* Campus Career Centres
-* Getting involved with non-profit organizations that gear towards industries
-* Slack Communities
-* Boolean strings targetting ATS systems
-* Talentegg.ca
-* Handshake
-* Otta -> career suggestions
-* Indeed.com/Indeed.ca
-* LinkedIn Jobs
+If you're not able to tap into the hidden job market, you can still leverage public job boards. I've taken the time to curate some below! Would also love readers to recommend job boards that I've missed as well!
 
-<h1>3.[WIP]    Showcasing “you” </h1>
+**Examples of Public Postings:**
+* Campus Career Centres - if you're a student at a college or university, part of your tuition goes to student services like the Career Centre. Alot of the time these career centres will have job boards available for students that go to that particular school. **Highly recommend this is a first place to start**
+* [Talentegg.ca](https://talentegg.ca/) - directory of co-op, internship and new graduate jobs for Canadian students! They also have a resource section for students on various career development topics.  
+* [Handshake](https://joinhandshake.com/) - directory of internship and new graduate jobs for American students! It's the best place to go to! I learned about this platform while as a Campus Recruiter working on hiring in the US school system.
+* [Otta](https://otta.com/) -  I just recently discovered this website, but it's super cool! You can set the details of your ideal role (job title, level of experience, location, salary expectations) and this site will automatically recommend jobs for you. 
+* Indeed.com/Indeed.ca - Indeed is probably one of the most well-known platforms for public job postings. Worth mentioning!
+* LinkedIn - As a student, you should really have a LinkedIn profile. It's basically the calling card for modern day job search and serves as a marketing tool for you to stand out. One really interesting feature about LinkedIn is the ability to set auto alerts for jobs that match your interests. Check out this [article](https://www.linkedin.com/help/linkedin/answer/a511279) to enable the feature.
+*WIP - Using Booleans to target Job Boards
+
+<h1>3. Showcasing “you” </h1>
 As a recruiter, we see hundreds, if not thousands of resumes per day. The reality is that you need to differentiate yourself from your competition. Listing your tech stack is the bare minimum.
 We also understand that as students, you won't have 3-5 years of experience. When I've worked with Hiring Managers, a stand-out student has always been someone that has shown they are hungry to learn, have shown leadership in their life outsife of school and genuine passion for the company & the role. 
 
