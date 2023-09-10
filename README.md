@@ -23,7 +23,9 @@ I find that when I tell students to "network", they automatically assume it's go
 * Sites like [Ten Thousand Coffees](https://www.tenthousandcoffees.com/) or [ADPlist](https://adplist.org/) where you can get matched with professionals in the career path you're interested in. Alot of these professionals have intentionally volunteered their own time to meet students!
   
 <h1>2. Discovering Jobs</h1>
-The best way to discover jobs is always through the [hidden job market](https://www.indeed.com/career-advice/finding-a-job/hidden-job-market) These are opportunities that are not posted, but come from informal conversations from friends, previous co-workers, referrals, networking and more. It's more work to tap into the hidden job market, but it's much more effective than applying through generic job boards. If curious, my last 3 jobs (including the one at Shopify) was actually from the hidden job market.
+The best way to discover jobs is always through the hidden job market. Want to learn more? Check out this resource by [Indeed](https://www.indeed.com/career-advice/finding-a-job/hidden-job-market)  
+
+These are opportunities that are not posted, but come from informal conversations from friends, previous co-workers, referrals, networking and more. It's more work to tap into the hidden job market, but it's much more effective than applying through generic job boards. If curious, my last 3 jobs (including the one at Shopify) was actually from the hidden job market.
 
 If you're not able to tap into the hidden job market, you can still leverage public job boards. I've taken the time to curate some below! Would also love readers to recommend job boards that I've missed as well!
 
