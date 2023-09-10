@@ -23,7 +23,7 @@ I find that when I tell students to "network", they automatically assume it's go
 * Sites like [Ten Thousand Coffees](https://www.tenthousandcoffees.com/) or [ADPlist](https://adplist.org/) where you can get matched with professionals in the career path you're interested in. Alot of these professionals have intentionally volunteered their own time to meet students!
   
 <h1>2. Discovering Jobs</h1>
-The best way to discover jobs is always through the [hidden job market](https://www.indeed.com/career-advice/finding-a-job/hidden-job-market). These are opportunities that are not posted, but come from informal conversations from friends, previous co-workers, referrals, networking and more. It's more work to tap into the hidden job market, but it's much more effective than applying through generic job boards. If curious, my last 3 jobs (including the one at Shopify) was actually from the hidden job market.
+The best way to discover jobs is always through the [hidden job market](https://www.indeed.com/career-advice/finding-a-job/hidden-job-market) These are opportunities that are not posted, but come from informal conversations from friends, previous co-workers, referrals, networking and more. It's more work to tap into the hidden job market, but it's much more effective than applying through generic job boards. If curious, my last 3 jobs (including the one at Shopify) was actually from the hidden job market.
 
 If you're not able to tap into the hidden job market, you can still leverage public job boards. I've taken the time to curate some below! Would also love readers to recommend job boards that I've missed as well!
 
@@ -64,7 +64,9 @@ I firmly believe the best candidate is the best person for the role and the best
 
 <h1>6. [WIP]   Interviewing best practices </h1>
 * Excellent article from Handshake on the types of interviews you might encounter in the professional world: https://joinhandshake.com/blog/students/types-of-interviews/
+
 * The most common type of interviews are STARR interviews (Situation, Task, Action, Results, Relate). Knowing how to communicate in this format will do wonders for your job search. My secret hack to mastering STARR interviews is to create your own bank of examples for various competencies you've demonstrated. IE. If you know detail-orientated is required in the jobs that you apply for, you should take the time to write out 2-3 examples of times where you showed detail-orientation. The intent is not to memorize the examples verbatim, BUT, it allows you to automatically jog up the example and be able to authentically and clearly communicate an example. The worst thing is when you know you've showed the skill before, but your mind just runs "blank" due to the pressures of a live interview.
+  
 * I always advise candidates to review the skills, competencies & qualifications section of a job posting before an interview. Imagine that section of the posting as the thesis and your answers as the paragraphs in your essay. You need to consciously link back to the thesis in the conversation. 
 
 <h1>7. [WIP]   Working with Recruiter Best Practices </h1>
